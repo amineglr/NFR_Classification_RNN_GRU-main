@@ -1,0 +1,915 @@
+class_name,sentence
+Performance,The system shall refresh the display every 60 seconds.
+Performance,The product shall respond fast to keep up-to-date data in the display.
+Performance,The product shall produce search results in an acceptable time
+Performance,The search results shall be returned no later 30      seconds  after the user has entered the search criteria
+Performance,The product shall generate a CMA report in an acceptable time.
+Performance,The CMA report shall be returned no later 60 seconds after the user has entered the CMA report criteria.
+Performance,The product shall synchronize contacts and appointments in an acceptable time.
+Performance,The product shall synchronize with the office system every hour.
+Performance,Staff members shall be able to complete a set of tasks in a timely manner.
+Performance,The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.
+Performance,The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds.
+Performance,The Disputes application shall support 350 concurrent users without any degradation of performance in the application.
+Performance,The search for recycled parts shall take no longer than 15 seconds.  The search results shall be returned in under 15 seconds.
+Performance,The search for the preferred repair facility shall take no longer than 8 seconds.  The preferred repair facility is returned within 8 seconds
+Performance,The recycled parts audit report shall be returned to the user within 10 seconds.  The audit report shall be returned within 10 seconds.
+Performance,The preferred repair facility ratings shall be saved within 5 seconds. The save shall occur within 5 seconds.
+Performance,The response shall be fast enough to avoid interrupting the user's flow of thought.  90% of tasks shall complete within 5 seconds.  98% of tasks shall complete within 8 seconds.
+Performance,Recreation of C360Inventory Quantity Adjustment for the period of previous 30 days shall take no more than 30min.
+Performance,The System shall allow for a minimum of  6 users to work at the same time.
+Performance,Administrator shall be able to activate a pre-paid card via the Administration section in under 5 seconds.
+Performance,Customer shall be able to check the status of their prepaid card  by entering in the PIN number  in under 5 seconds.
+Performance,"System shall let customers register on the website as a ""pay as you go"" user in under 5 minutes."
+Performance,"System shall let customers register on the website as a ""unlimited movie subscriber"" user in under 10 minutes."
+Performance,System shall let existing customers log into the website with their email address and password in under 5 seconds
+Performance,System shall let customers cancel their account  process shall take no longer than 2 minutes.  Database will mark the account as inactive  and user will not be able to log into the website.
+Performance,System shall let administrator de-activate a customer account in under 1 minute. Customer will no longer be able to access the website.
+Performance,System shall let administrator add/remove movies on the website in under 5 minutes.  Entered movie information will be stored in the database and will now be available on the website.
+Performance,System shall let the administrator add/remove categories on the website in under 5 minutes.
+Performance,System shall let Izogn Manager access sales and usage statistics in under 2 minutes.
+Performance,System shall let administrators generate unique pre-paid pins in under 2 minutes and generate an Excel file with the generated PINs.
+Performance,Any interface between a user and the automated system shall have a maximum response time of 5 seconds  unless noted by an exception below.
+Performance,When purchasing a streaming movie or pre-paid card via credit card  the processing time should have a maximum response time of 15 seconds.
+Performance,When streaming a movie  the buffering time should take no longer than 10 seconds (plus any latency on the user's connection.)
+Performance,While streaming a movie  buffering should only occur if there is latency in the user's connection.
+Performance,Izogn Administrator must be able to update the category listings on the website within 2 minutes.
+Performance,Total lead cycle time must be completed in 5 minutes for 90% of lead volume between the business hours of 8AM CST to 8PM CST; then 3 minutes for 99% of lead volume during off business hours.
+Performance,No lead evaluation will complete in a time period longer than 25 seconds for 97% of all leads processed.
+Performance,For leads that process longer than 25 seconds the system will record the event and duration
+Performance,The process must fit within the processing time conditions set forth by the Auto Rep Assignment process in which a lead is assigned within 3 minutes of the total life cycle.
+Performance,The product shall able to handle a large number of games simultaneously.
+Performance,The response time shall be fast enough to maintain the flow of the game. The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.
+Performance,90% of tasks shall complete within 5 seconds.
+Performance,98% of tasks shall complete within 8 seconds.
+Performance,Any interface between a user and the automated system shall have a maximum response time of 5 seconds  unless noted by an exception below.
+Performance,Aside from server failure  the software product shall achieve 99.99% up time.
+Performance,For 10% of the time  the response time should not be more than 10 seconds.
+Performance,No lead evaluation will complete in a time period longer than 25 seconds for 97% of all leads processed.
+Performance,On a 112k connection or faster  the system response time for all operations must be no more than 3 seconds 90% of the time.
+Performance,On a 56k connection  the system response time for all operations must be no more than 6 seconds 90% of the time.
+Performance,Recreation of Inventory Quantity Adjustment for the period of previous 30 days shall take no more than 30min.
+Performance,system shall be able to handle all of the user requests or usage during business hours.
+Performance,The application shall be able to complete every user transaction within one fourth of a second of receiving the request over the network.
+Performance,The audit report shall be returned within 10 seconds.
+Performance,The average number of recycled parts records per day shall be 50 000.
+Performance,The CMA report shall be returned no later 60 seconds after the user has entered the CMA report criteria.
+Performance,The concurrency capacity must be able to handle peak scheduling times such as early morning and late afternoon hours.
+Performance,The Disputes application shall support 350 concurrent users without any degradation of performance in the application.
+Performance,The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds.
+Performance,The peak CPU utilization shall never exceed 70% of CPU capacity at any given time.
+Performance,The preferred repair facility is returned within 8 seconds
+Performance,The preferred repair facility ratings shall be saved within 5 seconds.
+Performance,The process must fit within the processing time conditions set forth by the Auto Rep Assignment process in which a lead is assigned within 3 minutes of the total life cycle.
+Performance,The product interface should be fast.
+Performance,The product shall able to handle a large number of games simultaneously.
+Performance,The product shall be able support 1000 simultaneous users.
+Performance,The product shall be able to handle 10 000 concurrent users within 2 years of the initial launch.
+Performance,The product shall be able to handle up to 1500 simultaneous users.
+Performance,The product shall be able to process 10 000 transactions per hour within two years of its launch.
+Performance,The product shall be able to support multiple remote users
+Performance,The product shall be capable of handling the existing 1000 users.
+Performance,The product shall be capable of handling up to 1 000 concurrent requests.
+Performance,The product shall be expected to operate for at least 5 years for each customer installation.
+Performance,The product shall generate a CMA report in an acceptable time.
+Performance,The product shall have a maximum message processing time of 2 seconds
+Performance,The product shall process messages within 2 seconds.
+Performance,The product shall process minimum of 1 million transactions per year.
+Performance,The product shall provide Multi-threading and Load Balancing.
+Performance,The product shall provide multi-threading technology as well as load balancing to overcome data load spikes and traffic.
+Performance,The product shall respond fast to keep up-to-date data in the display.
+Performance,The product shall synchronize contacts and appointments in an acceptable time.
+Performance,The recycled parts audit report shall be returned to the user within 10 seconds.
+Performance,The response time for the most common requests to reach a user shall not exceed 3 seconds.
+Performance,The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.
+Performance,The response time of the product interface should not exceed 2 seconds 90% of the time.
+Performance,The response time shall be fast enough to maintain the flow of the game.
+Performance,The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.
+Performance,The save shall occur within 5 seconds.
+Performance,The search for recycled parts shall take no longer than 15 seconds.
+Performance,The search for the preferred repair facility shall take no longer than 8 seconds.
+Performance,The search results shall be returned in under 15 seconds.
+Performance,The search results shall be returned no later 30      seconds  after the user has entered the search criteria
+Performance,The server will support a maximum of 1 000 simultaneous users.
+Performance,"The solution shall complete an average of 99% of all online update transactions in under 5 seconds over any 60-minute period, during peak usage."
+Performance,The solution shall track system uptime and transaction response times in order to demonstrate operation within acceptable levels.
+Performance,The System shall allow for a minimum of  6 users to work at the same time.
+Performance,The system shall be able to handle an average transaction load with an average CPU utilization of no more than 35%-40% of the CPU capacity.
+Performance,The system shall be capable of processing 100% of nursing students and their classes for the next 10 years.
+Performance,The system shall be expected to manage the nursing program curriculum and class or clinical scheduling for a minimum of 5 years.
+Performance,The system shall be scalable and adaptable to meet future growth and expansion needs.
+Performance,The system shall cater to 10 simultaneous users from 9am to 5pm.
+Performance,The system shall have a response time where the average transaction on the server needs to occur on average less than 1 second.
+Performance,"The system shall include documentation of product capacities (e.g. number of users, number of transactions per second, number of records, network load, etc.) and the baseline representative configurations assumed for these capacities (e.g. number or type of processors, server or workstation configuration and network capacity, etc)."
+Performance,The system shall perform with 1500 users as a time.
+Performance,The system shall refresh the display every 60 seconds.
+Performance,The system will need the support capability of up to and beyond 5000 default schedules.
+Performance,"The system, including programs, database, and ancillary hardware and related software systems shall be able to retain its performance levels when adding additional users, functions, and data."
+Performance,The website shall be capable of supporting 100 000 customers.
+Performance,There is no limitation to the number of accepted formats.
+Performance,This number is expected to grow 5 times within the next year
+Performance,This number will increase to 2 000 by Release 2.
+Performance,This number will increase to 20 000 by Release 2.
+Performance,Total lead cycle time must be completed in 5 minutes for 90% of lead volume between the business hours of 8AM CST to 8PM CST; then 3 minutes for 99% of lead volume during off business hours.
+Performance,The response time shall be fast enough to maintain the flow of the game.
+Usability,If projected  the data must be readable.  On a 10x10 projection screen  90% of viewers must be able to read Event / Activity data from a viewing distance of 30.
+Usability,The system shall be used by realtors with no training
+Usability,The system shall be intuitive and self explanatory.
+Usability,The product shall be easy for a realtor to learn.
+Usability,The product shall use symbols and words that are naturally understandable by the realtor community.
+Usability,The product shall be installed by an untrained realtor   without recourse to separately-printed instructions.
+Usability,90% of untrained realtors shall be able to install the product on their device without printed instructions
+Usability,The list of dispute cases that are displayed after a search is performed must be color coded for easy identification of dispute cases based upon the dispute case status.
+Usability,100% of the cardmember and merchant services representatives shall use the Disputes application regularly after a 2-day training course.
+Usability,100% of cardmember services representatives shall be able to successfully create a dispute case on the first encounter after completing the training course.
+Usability,100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course.
+Usability,The product shall be easy to use by Adjusters and Collision Estimators.  95% of Adjusters and Collision Estimators shall find the product easy to use.
+Usability,The product shall increase productivity of Collision Estimators. 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.
+Usability,Users shall feel satisfied using the product.  85% of all users will be satisfied with the product.
+Usability,The product shall be easy to learn by Adjusters and Collision Estimators.  The product shall be learned with two days onsite training
+Usability,The user shall easily locate instructions while using the product.  User help can be found within 90% of the system.
+Usability,The product shall make the users want to use it. 80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch.
+Usability,The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use.
+Usability,The product shall give users feedback when necessary. 80% of the users surveyed report that the product accurately confirms their actions.
+Usability,The product shall allow the user to select a chosen language from one of the target market countries.
+Usability,The product shall allow for customization of start page and views preferences.
+Usability,An employee will be able to successfully use the product within a few minutes.  After informally navigating the product for less than 15 minutes  users shall be able to successfully setup meetings and reserve conference rooms.
+Usability,The product shall use a standard navigation menu familiar to most web users.
+Usability,The product shall allow for intuitive searching of available conference rooms.
+Usability,The product shall conform to the Americans with Disabilities Act.
+Usability,The product should be able to be used by 90% of novice users on the Internet.
+Usability,Users should only have to navigate through a maximum of 4 pages  to create an account with the website.
+Usability,Users should be able to access their streaming movies in under 2 clicks after logging into the website.
+Usability,An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website.
+Usability,An anonymous survey will show that 95% of customers are comfortable using and purchasing pre-paid cards after a month of using the system.
+Usability,The product shall retain the customer's buying preferences and information.
+Usability,The product shall be easy for customers with novice skills on the  Internet to purchase and watch streaming movies.  Customers should be able to purchase and watch a pre-determined movie in under 3 minutes
+Usability,The product shall use symbols and words that are naturally understandable by users familiar with websites
+Usability,The website will use standard Internet conventions when interacting with the user.
+Usability,The product shall be intuitive and self-explanatory.  Nine out ten users shall be able to successfully complete a game with no training.
+Usability,The product shall be available to players who understand English  Spanish and French.  The product shall allow the user to select the language upon accessing the product.
+Usability,If projected  the data must be understandable. On a 10x10 projection screen  90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100.
+Usability,The product shall be intuitive and self-explanatory.  :  90% of new users shall be able to start the display of Events or Activities within 90 minutes of using the product.
+Usability,The system shall be easy to use by the Program Administrators/Nursing Staff Members.
+Usability,All of the users shall be able to use the system after one day of training.
+Usability,The system shall help the user avoid making mistakes while scheduling classes and clinicals for the nursing students.
+Usability,The number of mistakes noted by the students shall be decreased by 50% in the first year.
+Usability,The system shall be intuitive to the Program Administrators/ Nursing Staff Members.
+Usability,2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.
+Usability,The system shall use symbols and words that are naturally understandable by the user community.
+Usability,The verbiage used within the system shall be consistent with Standard English and the terminology of the national Nursing Community.
+Usability,Every registered user will have access to the product's support site via the Internet.  70% of registered users shall find a solution to their problem within 5 minutes of using the support site.
+Usability,The product shall be translated into foreign languages other than the target market countries' languages in future releases.  For each emerging target market  it shall take no more than 5 days to configure the product for that market's language.
+Usability,The product shall be able to display calendar dates and times according to the user's locale.  90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.
+Usability,The website will provide a help section with answers and solutions to common problems.
+Usability,"(iii) The covered entity informs the individual that it is terminating its agreement to a restriction, except that such termination is only effective with respect to protected health information created or received after it has so informed the individual."
+Usability,100% of all selection and navigation functionality must be able to be activated or selected by either a mouse or a keyboard
+Usability,100% of cardmember services representatives shall be able to successfully create a dispute case on the first encounter after completing the training course.
+Usability,100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course.
+Usability,100% of the cardmember and merchant services representatives shall use the Disputes application regularly after a 2-day training course.
+Usability,2 out of 3 Program Administrators or Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.
+Usability,70% of registered users shall find a solution to their problem within 5 minutes of using the support site
+Usability,80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.
+Usability,80% of the users surveyed report that the product accurately confirms their actions.
+Usability,80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch.
+Usability,85% of all users will be satisfied with the product.
+Usability,90% of new users are able to log into the system within 10 minutes.
+Usability,90% of new users shall be able to start the display of Events or Activities within 90 minutes of using the product.
+Usability,90% of untrained realtors shall be able to install the product on their device without printed instructions
+Usability,90% of users should be able to successfully use the system to generate a report on their first use.
+Usability,90% of users will be able to successfully reserve a conference room within 5 minutes of product use.
+Usability,95% of Adjusters and Collision Estimators shall find the product easy to use.
+Usability,A new user must be able to be added to the system within 10 minutes.
+Usability,A new user shall be able to navigate through the league and team pages within 30 seconds of reaching the start-up page.
+Usability,A user shall be able to use the system without instruction after a short amount of time.
+Usability,After informally navigating the product for less than 15 minutes  users shall be able to successfully setup meetings and reserve conference rooms.
+Usability,After one use a user should understand and remember 90% of the system usage and navigation.
+Usability,All CCR users shall receive training before the WCS system is deployed.
+Usability,All interfaces and reports will undergo usability tests by CCR users.
+Usability,All of the users shall be able to use the system after one day of training.
+Usability,An employee will be able to successfully use the product within a few minutes.
+Usability,Callers and supervisors must be able to accomplish any system task within 2 minutes.
+Usability,Callers and supervisors shall learn how to use the system within 10 minutes.
+Usability,Every registered user will have access to the product's support site via the Internet.
+Usability,If projected  the data must be readable.
+Usability,If projected  the data must be understandable.
+Usability,Integration of new maps with the product shall be possible with little to no support from product support staff.
+Usability,Intelligent spell checking of text fields
+Usability,Nine out ten users shall be able to successfully complete a game with no training.
+Usability,NOTE: Clicking the calendar button next to the 'DOB' field will pop up an easy to use date selection tool found throughout the OpenEMR program.
+Usability,Notice that the 'Add New Issue' dialog also uses the OpenEMR date selection tool described earlier.
+Usability,Notice that the source and pay date from the previous window have been copied over; this saves time in the common case where a single check from the insurance company pays for multiple claims.
+Usability,On a 10x10 projection screen  90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100
+Usability,On a 10x10 projection screen  90% of viewers must be able to read Event  or  Activity data from a viewing distance of 30
+Usability,One training session will be held for 100% of CCR users before system deployment (based on a CCR user being available)
+Usability,"On-line, interactive help with support for hyperlink technology and industry standard formats (e.g., HTML file formats)"
+Usability,Reports must be generated within one button click and exported within one button click (after selecting the report)
+Usability,Rreports must be easy to generate.
+Usability,Staff members shall be able to complete a set of tasks in a timely manner.
+Usability,The application shall ask the user to confirm dropping a player or trading a player before performing the action.
+Usability,The customer shall be able to easily integrate new building maps with the product throughout the product's lifecycle.
+Usability,"The data elements required to complete a job function, whether to inquire or read only or data entry must be readily available."
+Usability,The enterer or editor is presented with a success or failure message and the form is updated so that the enterer or editor may correct the form or add more information.
+Usability,The form validation of the system shall show the errors of all the fields in a form at the same time.
+Usability,The interface shall be easy to use.
+Usability,The interface should adhere to IBM usability standards.
+Usability,The list of dispute cases that are displayed after a search is performed must be color coded for easy identification of dispute cases based upon the dispute case status.
+Usability,The number of mistakes noted by the students shall be decreased by 50% in the first year.
+Usability,The product shall allow for intuitive searching of available conference rooms.
+Usability,The product shall be easy for a realtor to learn.
+Usability,The product shall be easy for System Administrators and DBAs to use after two weeks of usage.
+Usability,The product shall be easy to learn by Adjusters and Collision Estimators.
+Usability,The product shall be easy to use by Adjusters and Collision Estimators.
+Usability,The product shall be easy to use
+Usability,The product shall be installed by an untrained realtor   without recourse to separately-printed instructions.
+Usability,The product shall be intuitive and self-explanatory.
+Usability,The product shall be intuitive and self-explanatory.
+Usability,The product shall be learned with two days onsite training
+Usability,The product shall give users feedback when necessary.
+Usability,The product shall have an intuitive user interface.
+Usability,The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time.
+Usability,The product shall increase productivity of Collision Estimators.
+Usability,The product shall make the users want to use it.
+Usability,The product shall use a standard navigation menu familiar to most web users.
+Usability,The product should be able to be used by 90% of novice users on the Internet.
+Usability,"The Proposer shall allow for field level edit checks for transactions during data entry and provide immediate user feedback, including error messages and possible corrective actions"
+Usability,The response shall be fast enough to avoid interrupting the user's flow of thought.
+Usability,The system has capability to have voice recognition.
+Usability,The system has capability to use visual cues to highlight abnormal results.
+Usability,The system has the ability to display critical relevant data when creating orders.
+Usability,The system has the capability to alert the user of lookalike and sound alike drugs.
+Usability,The system has the capability to detect duplicate orders issuing visual and auditory warnings.
+Usability,The system has the capability to use rules associated with required prompts that can either be used as warning to the usre or prevent moving to a next step until a specific action has been taken.
+Usability,The system must use a point and click interface.
+Usability,The system shall allow for the option of auto-fill capability per transaction or field entry throughout all modules
+Usability,The system shall allow for user-friendly end-user report creation without requiring technical staff or expertise to create and publish reports within the modules
+Usability,The system shall be easy to learn by callers and supervisors.
+Usability,The system shall be easy to use by callers and supervisors.
+Usability,The system shall be easy to use by the Program Administrators or Nursing Staff Members.
+Usability,The system shall be intuitive and self explanatory.
+Usability,The system shall be intuitive to the Program Administrators or Nursing Staff Members.
+Usability,The system shall be used by realtors with no training.
+Usability,The system shall display patient annotations in a manner which distinguishes them from other content in the system.
+Usability,"The system shall have a customizable online documentation and training materials such as context-specific help, search capability, organization-specific business process documentation and process maps."
+Usability,The system shall have the ability to design a preferred sequence to make data-entry columns and fields match the order of information in organization source documents.
+Usability,"The system shall have the ability to restrict free form entry (e.g., provide drop down calendar for date field)"
+Usability,The system shall help the user avoid making mistakes while scheduling classes and clinicals for the nursing students.
+Usability,"The system shall include documentation that explains system error or performance messages to users and administrators, with the actions required."
+Usability,"The system shall present data to users such that a minimum of navigational effort is required, including:"
+Usability,The system shall provide templates for inputting data in a structured format as part of clinical documentation.
+Usability,"The system shall provide the ability to document encounters by one or more of the following means: direct keyboard entry of text; structured data entry utilizing templates, forms, pick lists or macro substitution; dictation with subsequent transcription of voice to text, either manually or via voice recognition system."
+Usability,The system shall use symbols and words that are naturally understandable by the user community.
+Usability,"The system supports grouping like problems into disease categories (e.g., cerebrovascular disease, congenital heart disease, heart failure, hypertensive heart disease, ischemic heart disease, etc.) and enable one-click search when adding a problem to the list."
+Usability,The user interface shall integrate information from multiple components into a unified display by business area or work type.
+Usability,The user shall easily locate instructions while using the product.
+Usability,The users should be able to easily use the system to successfully complete their budgets  within the stipulated time for completion.
+Usability,The verbiage used within the system shall be consistent with Standard English and the terminology of the national Nursing Community.
+Usability,The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization.
+Usability,The website will use standard Internet conventions when interacting with the user.
+Usability,User help can be found within 90% of the system.
+Usability,Users shall feel satisfied using the product.
+Usability,With a week of training prior to product implementation  98% of the users shall complete their budgets within the stipulated time.
+Security,The product shall ensure that it can only be accessed by authorized users.  The product will be able to distinguish between authorized and unauthorized users in all access attempts.
+Security,Only registered realtors shall be able to access the system.
+Security,Every user of the system shall be authenticated and authorized.
+Security,The product shall prevent its data from incorrect data being introduced
+Security,Only authorized users shall have access to clinical site information.
+Security,Program Administrators/Nursing Staff Members are the only people who shall have access to clinical site details.
+Security,Only authorized users shall have access to students' personal information.
+Security,Dr Susan Poslusny and Dr Julie Donalek are the only people who shall have access to students' personal information.
+Security,Only authorized users shall have access to the portion of the system that interfaces with CampusConnect.
+Security,Fit Criterion: Dr Susan Poslusny and Karen Sysol are the only people who shall have access to the final class section scheduling for the system that interfaces with CampusConnect.
+Security,The system shall have basic data integrity checking to reduce the possibility of incorrect or invalid data being introduced.
+Security,The system shall protect private information in accordance with the organization's information policy.
+Security,The system shall be built such that it is as secure as possible from malicious interference.
+Security,The system shall use the organization's standard virus protection software to help monitor threats to itself.
+Security,The Disputes application shall ensure that only users with the appropriate access level are allowed to initiate dispute requests.
+Security,Only users with Update access must be able to initiate dispute requests.
+Security,The Disputes application shall ensure that only authorized users are allowed to logon to the application.
+Security,All authorized users  once authenticated must be able to logon to the Disputes System
+Security,The Disputes System shall generate a User Report that details any new users that have been added and any changes to an existing user's access level.  The report will be reviewed for auditing purposes.
+Security,All additions of new users and modifications to user's access shall be recorded on the User Report.
+Security,If a user account is revoked  it can only be re-instantiated by the System Administrator.
+Security,Only the System Administrator shall be able to reset a revoked user logon account
+Security,The Disputes application shall manipulate and view business data. Users will not have direct access to data files or databases.
+Security,All updates to data files or database must be initiated from the Disputes System.
+Security,Only adjusters can request recycled parts audit reports. No users without an adjuster role shall request recycled parts audits.
+Security,Only adjusters with a supervisor role can update preferred repair facility ratings. Users without the supervisor role cannot access the repair facility ratings.
+Security,Only collision estimators shall search for recycled parts.  Users without the collision estimator role shall not have access to the search for recycled parts.
+Security,Only valid data shall be entered into the system.  No invalid data shall be entered into the system.
+Security,One insurance company shall not be able to view another insurance companys claim data.
+Security,The product shall free of computer viruses.
+Security,The system shall prevent malicious attacks including denial of service.
+Security,The product shall ensure that only company employees or external users with company-approved user IDs may have product access.  100% of all logons shall be by either company employees or external users with company-approved user IDs.
+Security,Only managers are able to perform search queries for reservations by user.  100% of all search queries for reservations by user shall be from logons of only management logons.
+Security,The product shall ensure that the database's data corresponds to the data entered by the user.  Each conference room reservation in the system will contain the same information as was entered by the user.
+Security,The product shall prevent the input of malicious data.  The product and/or adjacent hardware/software systems' data shall remain 100% uncorrupted each time malicious data is input into the product.
+Security,The product shall have the ability to receive automatic software updates as new threats emerge.  100% of customers will be able to receive automatic software updates transmitted to the installed product.
+Security,The System shall maintain consistent security.  Any changes in user passwords and/or permissions should take affect in all parts of the System.
+Security,The System shall granularly control access rights to all major subsystems.  It should be possible to assign access rights to all subsystems independently.
+Security,All credit card information will be secured on the server  and only accessible by authorized Izogn administrators.  Information will be encrypted in the database.
+Security,Only registered customers can purchase streaming movies.
+Security,A customer can only stream a movie if they purchased it  and are within the 2 day viewing period.
+Security,Only authorized personnel can access customer records in the database.
+Security,Only administrators can activate a pre-paid card.
+Security,Only authorized personnel can access sales information.
+Security,The website shall prevent its data from being corrupted when incorrect data is entered in.
+Security,The website shall protect itself from intentional abuse  and notify the administrator at all occurrences.
+Security,Data integrity scripts will be run on a weekly basis to verify the integrity of the database.
+Security,The website shall make its user aware of its information practices before collection data from them via a Privacy Policy  accessible on all pages of the website.
+Security,The system shall notify customers of changes to its information policy.
+Security,The system shall reveal private information only in compliance with the organization's information policy.
+Security,All customer information will be stored on a secure database  accessible only to authorized personnel.
+Security,All credit card information will be encrypted in the database.
+Security,The streaming server will have anti-virus software to prevent infection of malicious viruses.
+Security,The product shall provide players no access to information that might reveal the identity of another player
+Security,A session that has been inactive for more than ten minutes is terminated 
+Security,- Disable accounts after 90 days of inactivity
+Security,- Passwords can be changed by the associated user only once in a 2-day period
+Security,Measures are in place to protect information from being accidentally overwritten.
+Security,"(1) Ensure the confidentiality, integrity, and availability of all electronic protected health information the covered entity creates, receives, maintains, or transmits."
+Security,(2) Protect against any reasonably anticipated threats or hazards to the security or integrity of such information.
+Security,(2) Use appropriate safeguards to prevent use or disclosure of the information other than as provided for by the data use agreement;
+Security,(3) Protect against any reasonably anticipated uses or disclosures of such information that are not permitted or required under subpart E of this part.
+Security,(7) A description of the process in place to ensure that no amounts higher than 100 percent of FFP will be claimed by the State for reimbursement of expenditures for State payments to Medicaid eligible providers for the certified EHR technology incentive payment program and a methodology for verifying such information.
+Security,"(8) A description of the process in place for ensuring improvements in health outcomes, clinical quality, or efficiency resulting from the adoption of certified EHR technology by recipients of Medicaid incentive payments and a methodology for verifying such information."
+Security,"(9) A description of the process in place for ensuring that any certified EHR technology used as the basis for a payment incentive to Medicaid providers is compatible with State or Federal administrative management systems, including the MMIS or other automated claims processing system or information retrieval system and a methodology for verifying such information."
+Security,"(A) Implement administrative, physical, and technical safeguards that reasonably and appropriately protect the confidentiality, integrity, and availability of the electronic protected health information that it creates, receives, maintains, or transmits on behalf of the covered entity as required by this subpart;"
+Security,(B) No protected health information is to be removed from the covered entity by the researcher in the course of the review; and
+Security,"(B) The right to receive confidential communications of protected health information as provided by section 164.522(b), as applicable;"
+Security,(B) Use appropriate safeguards to prevent use or disclosure of the information other than as provided for by its contract;
+Security,"(i) Except with respect to disclosures under section 164.510, verify the identity of a person requesting protected health information and the authority of any such person to have access to protected health information under this subpart, if the identity or any such authority of such person is not known to the covered entity; and"
+Security,"(i) Implement administrative, physical, and technical safeguards that reasonably and appropriately protect the confidentiality, integrity, and availability of the electronic protected health  information that it creates, receives, maintains, or transmits on behalf of the group health plan;"
+Security,"(ii) Customer service, including the provision of data analyses for policy holders, plan sponsors, or other customers, provided that protected health information is not disclosed to such policy holder, plan sponsor, or customer."
+Security,(ii) Ensure that the adequate separation required by section 164.504(f)(2)(iii) is supported by reasonable and appropriate security measures;
+Security,100% of all logons shall be by either company employees or external users with company-approved user IDs.
+Security,"A covered entity must have in place appropriate administrative, technical, and physical safeguards to protect the privacy of protected health information."
+Security,A patient has authenticated him or herself in the iTrust Medical Records system (UC2).
+Security,A security risk assessment is a requirement for compliance with HIPAA and Meaningful Use.
+Security,A software tester has a login and password.
+Security,"After installation or upgrade consider removing(or ensuring no access to) to the following scripts, which are not needed for general OpenEMR use:"
+Security,Consider a firewall that only allows port 443 (https) traffic to the server.
+Security,"Consider adding a specific sqlconfDOTphp override settings when using the patient portal (especially the onsite portal), which can be used to use a separate mysql user (and possibly database)."
+Security,Do not allow direct web access to the following directories
+Security,"Enforce password expiration, which can be set in Administration->Globals->Security."
+Security,"Enforce strong or unique passwords, which can be set in Administration->Globals->Security"
+Security,Ensure the root password is set to something.
+Security,"If not using portal and want to allow users to access over the internet, then consider using client-sided certificates to only allow users access to site"
+Security,"If want to give access to the patient portals over the internet, then consider using a client-sided certificate to only allow users access to the main OpenEMR login page"
+Security,"If you are using XAMPP, note that this software is extremely unsecure after installation and you need to secure it (See the XAMPP security instructions to secure your XAMPP installation.)"
+Security,"On server, consider only opening port 443 (https)."
+Security,Only allow https (ie turn off http)
+Security,Only allowing the IP address of the third party portal to access the SOAP APIs (for patient access)
+Security,Passwords should be held to a standard and be required to change at intervals.
+Security,"The third party portal could also set up a ssh tunnel method, so the local OpenEMR instance is not open to the web (and possibly not even require an IP address)."
+Security,The third party portal could set up a certificate to identify their server as an option to further secure.
+Security,"Ability for an administrator to delegate authority, by user group, to reset password"
+Security,"Ability for an administrator to delegate authority, by user group, to restore system access of locked out user"
+Security,Administration interfaces require strong authentication and authorization.
+Security,"After installation is finished, then secure files (this should be done as root user):"
+Security,"After three failed attempts with a userid in a given session, disallow attempts to log in via IP address for 15 minutes (see comments in the source code)."
+Security,All additions of new users and modifications to user's access shall be recorded on the User Report.
+Security,All authorized users  once authenticated must be able to logon to the Disputes System
+Security,All credit card information will be encrypted in the database.
+Security,All customer information will be stored on a secure database  accessible only to authorized personnel.
+Security,"All input parameters are validated (including form fields, query strings, cookies, and HTTP headers)."
+Security,All system and user accounts are identified.
+Security,All updates to data files or database must be initiated from the Disputes System.
+Security,All user sessions involving financial transactions or sensitive data are encrypted using SSL/HTTPS.
+Security,An authenticated session ends when the user logs out or closes the iTrust application.
+Security,An example of reflexive testing is when a confirmatory test is automatically ordered after a screening test is positive.
+Security,And remember that OpenEMR's username and passwords are case sensitive.
+Security,Any changes in user passwords possibly and possibly permissions should take affect in all parts of the System.
+Security,Apply appropriate sanctions against workforce members who fail to comply with the security policies and procedures of the covered entity.
+Security,Attempts to access resources using parent paths are blocked.
+Security,"Conduct an accurate and thorough assessment of the potential risks and vulnerabilities to the confidentiality, integrity, and availability of electronic protected health information held by the covered entity."
+Security,Conduct or review a security risk analysis in accordance with the requirements under 45 CFR 164.308(a)(1) and implement security updates as necessary and correct identified security deficiencies as part of its risk management process.
+Security,Conduct or review a security risk analysis in accordance with the requirements under 45 CFR 164.308(a)(1) and implement security updates as necessary and correct identified security deficiencies as part of its risk management process.
+Security,Configuration credentials and authentication tokens are not held in plain text in configuration files.
+Security,Configuration stores are secured from unauthorized access and tampering.
+Security,Cookies containing WCS login information about a user will not be stored on a user's computer.
+Security,Cookies with sensitive data (e.g. authentication cookies) are encrypted.
+Security,Cryptographic algorithm and key size for the System's data encryption requirements is AES 256 bit or stronger.
+Security,Customer will no longer be able to access the website.
+Security,"Data collection devices (e.g. – handheld devices, etc.) synchronize with the System securely using authentication, authorization and encryption mechanisms."
+Security,Data integrity scripts will be run on a weekly basis to verify the integrity of the database.
+Security,"Data is validated for type, length, format, and range."
+Security,Data Recipient shall use appropriate safeguards to protect the IIHI from misuse or inappropriate disclosure and to prevent any use or disclosure of the IIHI other than as provided in this DUA or as otherwise required by law or regulation.
+Security,Data validation is consistent across the System.
+Security,"Database keys, connections, passwords, or other secrets are not stored in plain text."
+Security,"Database or file encryption for protection of sensitive data fields while the data is at rest (i.e., stored data) is provided."
+Security,Database will mark the account as inactive  and user will not be able to log into the website
+Security,Dr Susan Poslusny and Dr Julie Donalek are the only people who shall have access to students' personal information.
+Security,Each conference room reservation in the system will contain the same information as was entered by the user.
+Security,Each team owner will need to use a username and password in order to be authenticated to reach the team owner's page
+Security,Electronic sessions must terminate after ten minutes of inactivity.
+Security,"Encrypted data delivered over the Internet is transmitted via open protocols (e.g., SSL, XML encryption)"
+Security,Encryption capability for certain data transmissions that require security protection.
+Security,Encryption keys are secured.
+Security,Ensure that authentication is reset after a period of inactivity that exceeds ten minutes.
+Security,Every user of the system shall be authenticated and authorized.
+Security,Fit Criterion: Dr Susan Poslusny and Karen Sysol are the only people who shall have access to the final class section scheduling for the system that interfaces with CampusConnect.
+Security,"For e-prescribing and for CCHIT certification, EHR systems shall have the ability to support two-factor authentication."
+Security,For systems that provide access to PHI through a web browser interface (i.e. HTML over HTTP) shall include the capability to encrypt the data communicated over the network via SSL (HTML over HTTPS).
+Security,"Furthermore, if CMS determines that the risk of harm requires notification of affected individual persons of the  security breach possibly and possibly other remedies, the User agrees to carry out these remedies without cost to CMS."
+Security,"Identify and respond to suspected or known security incidents; mitigate, to the extent practicable, harmful effects of security incidents that are known to the covered entity; and document security incidents and their outcomes."
+Security,Identify security standard (SSL or FIPS encryption).
+Security,If a user account is revoked  it can only be re-instantiated by the System Administrator.
+Security,"If Structured Query Language (SQL) authentication is used (e.g., communication between the application server and the database server) credentials are secured in storage and over the wire via Secure Socket Layer (SSL) or IP Security (IPSec)."
+Security,"If the system includes hardware, the system shall include documentation that covers the expected physical environment necessary for proper secure and reliable operation of the system including: electrical, HVAC, sterilization, and work area."
+Security,If this is your first time logging in to OpenEMR it is recommended that you change your password to something more secure.
+Security,Implement a mechanism to encrypt and decrypt electronic protected health information.
+Security,Implement a mechanism to encrypt electronic protected health information whenever deemed appropriate.
+Security,Implement a security awareness and training program for all members of its workforce (including management).
+Security,Implement electronic mechanisms to corroborate that electronic protected health information has not been altered or destroyed in an unauthorized manner.
+Security,Implement electronic procedures that terminate an electronic session after a predetermined time of inactivity.
+Security,"Implement physical safeguards for all workstations that access electronic protected health information, to restrict access to authorized users."
+Security,"Implement policies and procedures that govern the receipt and removal of hardware and electronic media that contain electronic protected health information into and out of a facility, and the movement of these items within the facility."
+Security,"Implement policies and procedures that specify the proper functions to be performed, the manner in which those functions are to be performed, and the physical attributes of the surroundings of a specific workstation or class of workstation that can access electronic protected health information."
+Security,Implement policies and procedures to address security incidents.
+Security,"Implement policies and procedures to address the final disposition of electronic protected health information, possibly and possibly the hardware or electronic media on which it is stored."
+Security,"Implement policies and procedures to document repairs and modifications to the physical components of a facility which are related to security (for example, hardware, walls, doors, and locks)."
+Security,"Implement policies and procedures to prevent, detect, contain, and correct security violations."
+Security,Implement policies and procedures to protect electronic protected health information from improper alteration or destruction.
+Security,"Implement policies and procedures to safeguard the facility and the equipment therein from unauthorized  physical access, tampering, and theft."
+Security,"Implement procedures for removal of electronic protected health infoImplement policies and procedures to address the final disposition of electronic protected health information, possibly and possibly the hardware or electronic media on which it is stored.rmation from electronic media before the media are made available for re-use."
+Security,"Implement procedures to regularly review records of information system activity, such as audit logs, access reports, and security incident tracking reports."
+Security,Implement procedures to verify that a person or entity seeking access to electronic protected health information is the one claimed.
+Security,Implement security measures sufficient to reduce risks and vulnerabilities to a reasonable and appropriate level to comply with section 164.306(a).
+Security,Implement security measures to ensure that electronically transmitted electronic protected health information is not improperly modified without detection until disposed of.
+Security,Implement technical security measures to guard against unauthorized access to electronic protected health information that is being transmitted over an electronic communications network.
+Security,"In the event that a system does not support pre-login capabilities, the system shall display the banner immediately following authorization."
+Security,Information will be encrypted in the database.
+Security,It should be possible to assign access rights to all subsystems independently.
+Security,Key management procedure to secure and manage the encryption keys is defined.
+Security,Login to OpenEMR using your assigned username and password.
+Security,Measures are in place to detect unauthorized changes to information
+Security,"Measures are in place to prevent the upload of unauthorized files (e.g., executable files)."
+Security,"Measures are in place to prevent, detect and log unauthorized attempts to access sensitive or confidential data."
+Security,"Measures are in place to prevent, detect and log unauthorized attempts to access the System."
+Security,"MIDs should be considered private, sensitive information."
+Security,No invalid data shall be entered into the system.
+Security,Note that the OpenEMR login is case-sensitive.
+Security,"On this page is displayed recommendations and warnings regarding directories Apache should NOT allow the outside world to see, as these directories contain Protected Health Information."
+Security,Only authorized user shall access the RFS system.
+Security,Only authorized users shall have access to clinical site information.
+Security,Only authorized users shall have access to students' personal information.
+Security,Only authorized users shall have access to the portion of the system that interfaces with CampusConnect.
+Security,Only managers are able to perform search queries for reservations by user.
+Security,Only registered realtors shall be able to access the system.
+Security,Only the System Administrator shall be able to reset a revoked user logon account
+Security,ONLY users that exist in the UAS system  with the RFS system assigned to their role(s)  shall access the RFS system and use it.
+Security,Only users with Update access must be able to initiate dispute requests.
+Security,Only valid data shall be entered into the system.
+Security,Periodic security updates.
+Security,"Physical security protects the providers, the patients, clinic assets, and the physical manifestation of the business, financial, and health information."
+Security,Platform-level cryptography is used with no custom implementations.
+Security,"Private and sensitive data (for example, passwords) are not logged"
+Security,"Procedures for creating, changing, and safeguarding passwords."
+Security,"Procedures for guarding against, detecting, and reporting malicious software."
+Security,Procedures for monitoring log-in attempts and reporting discrepancies.
+Security,Protect electronic health information created or maintained by the certified EHR technology through the implementation of appropriate technical capabilities.
+Security,Protect electronic health information created or maintained by the certified EHR technology through the implementation of appropriate technical capabilities.
+Security,Protection mechanisms are in place for sensitive data that is sent over the network.
+Security,"Remote administration channels are secured (e.g., SSL, VPN)"
+Security,Remove MID from being displayed on all pages and URLs.
+Security,Secrets are stored securely using a one-way hash.
+Security,Security decisions do not rely on HTTP header information.
+Security,Security measures implemented to comply with standards and implementation specifications adopted under section 164.105 and this subpart must be reviewed and modified as needed to continue provision of reasonable and appropriate protection of electronic protected health information as described at section 164.316.
+Security,Sensitive data and secrets are not incorporated in  code.
+Security,Sensitive data is not logged in clear text by the System.
+Security,Sensitive data is not passed in query strings or form fields.
+Security,Sensitive data is not stored in persistent cookies.
+Security,"Sensitive data is not transmitted using insecure protocols, such as FTP, telnet, tftp etc., unless tunneled through an authenticated encrypted connection (e.g. VPN)."
+Security,Session identifiers are not passed in query strings.
+Security,Session lifetime is limited to a pre-specified and configurable duration.
+Security,Session state is protected from unauthorized access.
+Security,SSL is used to protect authentication cookies.
+Security,System allows addition of user-defined messages to logon screen
+Security,System allows secure password resets in case passwords are forgotten.
+Security,System allows users to re-authenticate and remotely log out of an active user session before logging in at another location.
+Security,System allows viewing of list of Users logged on to System in real-time
+Security,System authenticates standalone devices before access is allowed to protected resources.
+Security,"System authenticates the user before any access is allowed to protected resources (e.g., Protected Health Information)"
+Security,System avoids un-trusted input of file name and file paths.
+Security,System code does not rely on internal system generated error handling.
+Security,System does not rely on client-side validation.
+Security,System does not use parent paths when data within the System is being accessed.
+Security,System encrypts passwords before being stored or transmitted.
+Security,"System encrypts sensitive data transmitted between clients and servers using Secure Socket Layer (SSL) Certificates, Transport Layer Security (TLS), or by other means"
+Security,System exception handling minimizes information disclosure in case of an exception.
+Security,System has the ability to disallow more than one active session per sign-on identification.
+Security,System insures that input validation is applied whenever input is received through user or external data interfaces.
+Security,System insures that minimum error information is returned in the event of authentication failure.
+Security,System must support password complexity that meets the following requirements:
+Security,System performs secure and seamless logon for all third party integrated systems.
+Security,System provides a web (HTTPS) interface and provides an SSL configuration mechanism.
+Security,System provides an automatic timeout if the session is idle for a pre-specified and configurable duration.
+Security,System provides integrated security managed in a central accounts database
+Security,System provides reminder alerts to users to reset passwords.
+Security,System provides secure information delivery over the Internet via encryption by using triple-DES (Data Encryption Standard) or the Advanced Encryption Standard (AES)
+Security,System provides the following password change rules for user accounts:
+Security,System provides the option for multi-factor authentication for users with higher security access.
+Security,System restricts users from directly accessing the database.
+Security,"System returns generic error messages to the client, to avoid disclosure of sensitive information."
+Security,System shall let existing customers log into the website with their email address and password in under 5 seconds.
+Security,System uses least-privileged accounts.
+Security,System warns the user before the timeout and prompts the user to re-enter their password.
+Security,"Temporary objects are removed from the system, database connections are closed, and memory is released."
+Security,The administrator has authenticated himself or herself in the iTrust Medical Records system (UC3).
+Security,The County standard for users is 90 days.
+Security,The Disputes application shall ensure that only authorized users are allowed to logon to the application.
+Security,The Disputes application shall ensure that only users with the appropriate access level are allowed to initiate dispute requests.
+Security,The Disputes application shall manipulate and view business data.
+Security,The Disputes System shall generate a User Report that details any new users that have been added and any changes to an existing user's access level.
+Security,"The equipment storing PHI and BI should be subject to: Physical access restrictions: Place the server in a protected, locked area and limit access."
+Security,The first screen gives some general instructions and ensures file and directory permissions are set up correctly.
+Security,"The HCP has authenticated himself or herself in the iTrust Medical Records system (UC2),(UC3)."
+Security,The HCP has authenticated himself or herself in the iTrust Medical Records system (UC3).
+Security,The HCP has authenticated himself or herself in the iTrust Medical Records system(UC3).
+Security,"The Healthcare Information and Management Systems Society (HIMSS) provides a""Risk Assessment Toolkit""for conducting a risk assessment and developing a compliant security plan."
+Security,The inactivity timeout shall be configurable.
+Security,The iTrust user (LCHP) has been authenticated in the iTrust Medical Records system (UC3).
+Security,The iTrust user (LHCP or patient) has been authenticated in the iTrust Medical Records system (UC3).
+Security,The iTrust user (patient or HCP) has been authenticated in the iTrust Medical Records system (UC3).
+Security,The iTrust user (patient) has authenticated himself or herself in the iTrust Medical Records system (UC3).
+Security,The iTrust user (patient) has been authenticated in the iTrust Medical Records system (UC3).
+Security,"The iTrust user (patient, LHCP) or administrator has authenticated himself or herself in the iTrust Medical Records system (UC3),(UC2)."
+Security,The iTrust user has authenticated himself or herself in the iTrust Medical Records system (UC3).
+Security,The iTrust user has been authenticated in the iTrust Medical Records system (UC3).
+Security,The leads washing functionality will verify the users authentication and rights to make parameter updates.
+Security,The password is not displayed as clear text (Password Masking)
+Security,The patient has authenticated himself or herself in the iTrust Medical Records system (UC3).
+Security,The patient has authenticated himself or herself in the iTrust Medical Records system(UC3).
+Security,The product possibly and possibly adjacent hardware or software systems' data shall remain 100% uncorrupted each time malicious data is input into the product.
+Security,The product shall ensure that it can only be accessed by authorized users.
+Security,The product shall ensure that only company employees or external users with company-approved user IDs may have product access.
+Security,The product shall ensure that the database's data corresponds to the data entered by the user.
+Security,The product shall free of computer viruses.
+Security,The product shall have security.
+Security,The product shall information Security.
+Security,The product shall prevent its data from incorrect data being introduced.
+Security,The product shall prevent the input of malicious data.
+Security,The product shall provide authentication  and authorization.
+Security,The product will be able to distinguish between authorized and unauthorized users in all access attempts
+Security,The Proposer shall provide adequate firewall protection in order to secure Personal Data and other Confidential Information users of the EHR from unauthorized access by third parties.
+Security,"The Proposer shall provide the facility required to host the computing and network environment, including appropriate physical security, required third-party software, and 24 by 7 staff support and monitoring environmental conditions (e.g. HVAC, port, fire detection, suppression, moisture, humidity and temperature."
+Security,"The Proposer shall review security notifications and alerts relevant to the hosting platform (e.g., notifications of bugs, attacks, patches), and apply as appropriate to maintain the highest level of defense."
+Security,"The purpose of the criteria is to provide the ability to remove a user's privileges, but maintain a history of the user in the system."
+Security,The report will be reviewed for auditing purposes.
+Security,"The safeguards shall provide a level  and scope of security that is not less than the level and scope of security requirements established by the Office  of Management and Budget (OMB) in OMB Circular No A-130, Appendix III--Security of Federal Automated  Information Systems (http://www.whitehouse.gov/omb/circulars/a130/a130.html) as well as Federal  Information Processing Standard 200 entitled Minimum Security Requirements for Federal Information and  Information Systems (http://csrc.nist.gov/publications/fips/fips200/FIPS-200-final-march.pdf); and, Special Publication 800-53 Recommended Security Controls for Federal Information Systems (http://csrc.nist.gov/ publications/nistpubs/800-53-Rev2/sp800-53-rev2-final."
+Security,The software tester authenticates himself or herself in the iTrust Medical Records system (UC2).
+Security,"The software used to install and update the system, independent of the mode or method of conveyance, shall be certified free of malevolent software (malware)."
+Security,The streaming server will have anti-virus software to prevent infection of malicious viruses.
+Security,The System design assumes that user input is malicious.
+Security,"The system must be able to associate permissions with a user using one or more of the following access controls: 1) user-based (access rights assigned to each user); 2) role-based (users are grouped and access rights assigned to these groups); or 3) context-based (role-based with additional access rights assigned or restricted based on the context of the transaction such as time-of-day, workstation-location, emergency-mode, etc.)  The system shall support removal of a user's privileges without deleting the user from the system."
+Security,The System provides error-handling processes.
+Security,"The system shall authenticate the user before any access to Protected Resources (e.g. PHI) is allowed, including when not connected to a network e.g. mobile devices."
+Security,The system shall automatically notify users and force them to change passwords on a pre-defined frequency.
+Security,The system shall be built such that it is as secure as possible from malicious interference.
+Security,"The system shall enable multiple simultaneous users, each with his or her own exclusive authentication."
+Security,The system shall enforce a limit of (configurable) consecutive invalid access attempts by a user.
+Security,"The system shall enforce the most restrictive set of rights or privileges or accesses needed by users or groups (e.g. System Administration, Clerical, Nurse, Doctor, etc.), or processes acting on behalf of users, for the performance of specified tasks."
+Security,The System shall granularly control access rights to all major subsystems.
+Security,The system shall have basic data integrity checking to reduce the possibility of incorrect or invalid data being introduced.
+Security,The system shall have the ability for security module to be maintained by an in-house System Administrator
+Security,The system shall have the ability to assign application access rights across entire suite of applications at a single point of entry.
+Security,The system shall have the ability to display the last date and time the user logged onto the system at the time of logon.
+Security,"The system shall have the ability to support 128-bit SSL encryption, or higher, between the client browser and the application tier for any or all modules or sub-modules at organization discretion."
+Security,"The system shall have the ability to support biometrics and biometrics plus passwords (e.g., fingerprint scan and fingerprint scan plus password)."
+Security,"The system shall have the ability to support web based client access or other internet based client access technologies, with appropriate security access controls"
+Security,"The system shall include documentation available to the customer stating whether or not there are known issues or conflicts with security services  in at least the following service areas:  antivirus, intrusion detection, malware eradication, host-based firewall and the resolution of that conflict (e.g. most  systems should note that full virus scanning should be done outside of peak usage times and should exclude the databases.)"
+Security,"The system shall include documentation available to the customer that provides guidelines for configuration and use of the security controls necessary to support secure and reliable operation of the system, including but not limited to: creation, modification, and deactivation of user accounts, management of roles, reset of passwords, configuration of password constraints, and audit logs."
+Security,"The system shall include documentation that itemizes the services (e.g. PHP, web services) and network protocols/ports (e.g. HL-7,  HTTP, FTP)  that are necessary for proper operation and servicing of the system, including justification of the need for that service and protocol."
+Security,The System shall maintain consistent security.
+Security,The system shall only be accessed by authorized Corporate Community Grants (CCR) employees.
+Security,The system shall prevent malicious attacks including denial of service.
+Security,"The system shall protect against further, possibly malicious, user authentication attempts using an appropriate mechanism (e.g. locks the account or node until released by an administrator, locks the account or node for a configurable time period, or delays the next login prompt according to a  configurable delay algorithm)."
+Security,The system shall provide ability to use a single user sign-on for all modules with security configured for each module.
+Security,"The system shall provide automatic logout of users when there has been no activity for a pre-defined period, maintaining transaction integrity"
+Security,The system shall provide expiration dates for passwords.
+Security,The system shall provide lock-out capability after a pre-defined number of unsuccessful user sign-on attempts.
+Security,The system shall provide only limited feedback information to the user during the authentication.
+Security,"The system shall support ensuring the authenticity of remote nodes (mutual node authentication) when communicating Protected Health Information (PHI) over the Internet or other known open networks using an open protocol (e.g. TLS, SSL, IPSec, XML sig, S or MIME)."
+Security,"The system shall support protection of confidentiality of all Protected Health Information (PHI) delivered over the Internet or other known open networks via encryption using triple-DES (3DES) or the Advanced Encryption Standard (AES) and an open protocol such as TLS, SSL, IPSec, XML encryptions, or S or MIME or their successors."
+Security,The system shall use the organization's standard virus protection software to help monitor threats to itself.
+Security,"The system upon detection of inactivity of an interactive session shall prevent further viewing and access to the system by that session by terminating the session, or by initiating a session lock that remains in effect until the user reestablishes access using appropriate identification and authentication procedures."
+Security,"The system, prior to access to any PHI, shall display a configurable warning or login banner (e.g. 'The system should only be accessed by authorized users')."
+Security,"The system, when storing PHI on any device intended to be portable or removable (e.g. thumb-drives, CD-ROM, PDA, Notebook), shall support use of a standards based encrypted format using triple-DES (3DES), or the Advanced Encryption Standard (AES), or their successors."
+Security,The time for passwords to be changed is predefined as per user's role and access level.
+Security,"The User agrees that,  within the User organization and the organizations of its agents, access to the data covered by this Agreement  shall be limited to the minimum amount of data and minimum number of individuals necessary to achieve the purpose stated in this section (i.e., individual's access to the data will be on a need-to-know basis)."
+Security,"The User agrees to establish appropriate administrative, technical, and physical safeguards to protect the  confidentiality of the data and to prevent unauthorized use or access to it."
+Security,The user may try three times.
+Security,"The validation approach is to constrain, reject, and then sanitize input."
+Security,The WCS system shall not allow automatic logins by any user.
+Security,"The web server always asserts a character set: a locale and a country code, such as en_US."
+Security,"The Web-enabled portions of the application shall meet state-of-the-art Internet standards for graphics and design and for speed, reliability, and security for dynamic content and user interaction."
+Security,The website shall prevent its data from being corrupted when incorrect data is entered in.
+Security,The website shall protect itself from intentional abuse  and notify the administrator at all occurrences.
+Security,This information may be used by the healthcare facility to properly configure their network defenses (firewalls and routers).
+Security,"To begin using OpenEMR, navigate to your server's installation directory and log in using your assigned username and password."
+Security,"To begin, log in with your designated username and password."
+Security,"Traditional security matters involve locks, points of entry, lighting and cameras, fire precautions, power outage procedures, and water protection, and disaster recovery."
+Security,User accounts and service accounts used for configuration management have only the minimum privileges required for the task.
+Security,Users must be authenticated using their IBM intranet user name and password.
+Security,Users will not have direct access to data files or databases.
+Security,Vendor may self-certify compliance with this standard through procedures that make use of commercial malware scanning software.
+Security,Web sites are partitioned into un-restricted and restricted areas using separate folders
+Security,"When answer to the security question is typed in, the answer should not appear on the screen (similar to how a password normally appears) and the answer should be confirmed (by the patient or personal health representative) before it is saved."
+Security,"When passwords are used, the system shall allow an authenticated user to change their password consistent with password strength rules (SC 03.02)."
+Security,"When passwords are used, the system shall prevent the reuse of passwords previously used within a specific (configurable) timeframe (i.e., within the last X days, etc. - e.g. last 180 days), or shall prevent the reuse of a certain (configurable) number of the most recently used passwords (e.g. last 5 passwords)."
+Security,"When passwords are used, the system shall provide an administrative function that resets passwords."
+Security,"When passwords are used, the system shall support password strength rules that allow for minimum number of characters, and inclusion of alpha-numeric complexity."
+Security,"When passwords are used, the system shall use either standards-based encryption, e.g., 3DES, AES, or standards-based hashing, e.g., SHA1 to store or transport passwords."
+Security,"When passwords are used, user accounts that have been reset by an administrator shall require the user to change the password at next successful logon."
+Security,You will then be required to login again with your new password.
+Operability,The system shall able to operate within a business office environment typical of the Nursing Department at DePaul University.
+Operability,The system shall be used within the specifications defined by the computers used by the Program Administrators/Nursing Staff Members.
+Operability,The system shall operate within the Windows XP Professional operating system.
+Operability,The system shall interface with CampusConnect's central server
+Operability,The system shall interface with the faculty central server.
+Operability,The system shall interface with the student master server.
+Operability,We must be able to interface with any HTML browser.
+Operability,The Disputes application shall be available 24x7x365  with the exception of the following scheduled maintenance windows.  Monday - Saturday 3:00am to 4:00am EST Sunday 1:00amd to 5:00am EST
+Operability,The Disputes application shall interface with the Statement Database. The Statement Database provides the transaction details to the Disputes System. All transaction details must be obtained from the Statement Database
+Operability,The Disputes application shall interface with the Cardmember Information Database.  The Cardmember Information Database provides detailed information with regard to a cardmember.  All cardmember detail information must be obtained from the Cardmember Information Database.
+Operability,The Disputes applications shall interface with the Merchant Information Database.  The Merchant Information Database provides detailed information with regard to the merchant. All merchant detail information shall be obtained from the Merchant Information Database.
+Operability,The Disputes application shall interface with the Letters application.  This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process. All letter requests must be sent to the Print Letter Utility application.
+Operability,The Disputes application shall interface with the Cardmember Posting and Billing System.  This will allow the Disputes application to request adjustments to cardmember and merchant's accounts. All adjustment requests must be sent to the Cardmember Posting and Billing System.
+Operability,The product must support Internet Explorer 5.5 and above.'
+Operability,The product must support Mozilla Firefox 1.0 and above.
+Operability,The product shall interface with the Choice Parts System.  This provides the feed of recycled parts data.
+Operability,The product shall run on the existing hardware for all environments.
+Operability,The product shall adhere to the corporate Architecture guidelines
+Operability,For estimators  the product shall be able to be operated in a repair facility during dirty and noisy conditions.
+Operability,The product shall interface with the ChoiceParts system once per day at approximately 1:00 AM.
+Operability,The maintenance of the product will fall within the established corporate maintenance windows.
+Operability,The product shall be supported using the corporate support center.
+Operability,Product installations and upgrades shall be handled by the middleware technology team within established launch time frames.
+Operability,The product must work with most database management systems (DBMS) on the market  whether the DBMS is colocated with the product on the same machine or is located on a different machine on the computer network.
+Operability,The product will function alongside server software on any operating system where the Java runtime can be installed.
+Operability,The product will require collaboration with a database management system (DBMS).  The DBMS may be located on the same machine as the product or on a separate machine residing on the same computer network.
+Operability,The product must make use of web/application server technology.  Open source examples include Apache web server  Tomcat  and the JBoss application server.
+Operability,A database management system such as Oracle  DB2  MySql or HSQL will need to be integrated with the product.
+Operability,The product shall be used in office environments.
+Operability,The product must be able to interface with any HTML browser.  The product shall transmit data between the user and the product without problems. The product shall display HTML properly in 80% of all HTML browsers tested (minimum is to test 8 browsers).
+Operability,The product must be able to interface with various database management systems. The product shall communicate successfully with the database management system on 100% of all transactions.
+Operability,The product must be able to interface with various email servers. The product shall be able to send email.
+Operability,The product shall be available for distribution via the Internet as a binary or ZIP file.
+Operability,The product shall be available for distribution as a packaged CD.
+Operability,The product will be available for licensing as a one-server  two-five servers  or five-or-more servers license.
+Operability,The product is expected to integrate with multiple database management systems.  The product will operate with Oracle  SQL Server  DB2  MySQL  HSQL  and MS Access.
+Operability,The product shall be able to be installed in any operating environment within 2 days.
+Operability,The product must be developed with the J2SE/J2EE programming language libraries
+Operability,The System shall utilize currently owned computer equipment.
+Operability,The System shall be able to automatically backup business data and restore them on demand.
+Operability,The System shall not require additional third party licenses resulting in royalty fees.
+Operability,All aspects of the website shall be accessed by a web browser over the Internet.
+Operability,The same hardware supporting the current website will be used to support the new system.
+Operability,We must be able to interface with the following browsers: IE 5.X  6.0  Netscape 6.x  7.x  8.x and Firefox 1.0.
+Operability,Website must interface with the CyberSource API to process credit card transactions.
+Operability,Website must be fully operational with MSN TV2.
+Operability,Movies shall be encoded and streamed via Windows Media Player 9.0.
+Operability,Movies shall be encoded for 56k and 256k streams.
+Operability,The product shall be able to be installed in the specified environment within 1 working day.
+Operability,The website should use Flash to provide animation on the home page.
+Operability,The lead washing process will operate within the established physical web service structure.
+Operability,The washing process must use a non binding  neutral data format  such as xml  when receiving and processing lead data.
+Operability,100% of the entities (mentioned above) available as of October month-end  will be loaded into the RFS system  prior to the budget start process.
+Operability,7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process  every year.
+Operability,98% of the user workstations shall meet the minimum hardware requirements prior to implementation.
+Operability,A database management system such as Oracle  DB2  MySql or HSQL will need to be integrated with the product.
+Operability,A primary database will be used to store cached data for active users.
+Operability,A secondary database will be used to store historical statistics and data.
+Operability,All adjustment requests must be sent to the Cardmember Posting and Billing System.
+Operability,All aspects of the website shall be accessed by a web browser over the Internet.
+Operability,All cardmember detail information must be obtained from the Cardmember Information Database.
+Operability,All letter requests must be sent to the Print Letter Utility application.
+Operability,All merchant detail information shall be obtained from the Merchant Information Database.
+Operability,All transaction details must be obtained from the Statement Database
+Operability,Allow access to the EMH solution over the Internet and provide secure and confidential storage of all information transmitted to and from the LA DHS.
+Operability,Brio will provide buttons in the user interface that produce or export reports in xls or .123 file formats.
+Operability,"First install and configure MySQL, Apache (or another PHP-capable webserver), and PHP5."
+Operability,For estimators  the product shall be able to be operated in a repair facility during dirty and noisy conditions.
+Operability,"If using CentOS or Redhat, then ensure when configuring MySQL for OpenEMR, STRICT_MODE must be disabled."
+Operability,Irregular activities are identified based on County departments' rules and regulations.
+Operability,Minimum Hard Disk Space:  400MB.
+Operability,Movies shall be encoded and streamed via Windows Media Player 9.0.
+Operability,Movies shall be encoded for 56k and 256k streams.
+Operability,Open source examples include Apache web server  Tomcat  and the JBoss application server.
+Operability,Product installations and upgrades shall be handled by the middleware technology team within established launch time frames.
+Operability,Queries must be made to external databases for data refresh once a week.
+Operability,System integrates with Microsoft Active Directory for authentication and has the capability of notifying the end user of near domain account password expiration date as well as the ability to reset the password through the system's user interface
+Operability,"System provides configuration, user accounts, roles and privileges reports."
+Operability,System restricts access to financial transactions and other sensitive data by authorized users outside the County Intranet to Read Only mode.
+Operability,The application shall run on a web application server.
+Operability,The Brio portion of the WCS system must be able to export files in spreadsheet form (Microsoft Excel and Lotus 1-2-3 formats).
+Operability,The Cardmember Information Database provides detailed information with regard to a cardmember.
+Operability,The DBMS may be located on the same machine as the product or on a separate machine residing on the same computer network.
+Operability,The Disputes application shall interface with the Cardmember Information Database.
+Operability,The Disputes application shall interface with the Cardmember Posting and Billing System.
+Operability,The Disputes application shall interface with the Letters application.
+Operability,The Disputes application shall interface with the Statement Database.
+Operability,The Disputes applications shall interface with the Merchant Information Database.
+Operability,The Disputes System must be accessible by both internal and external users.
+Operability,"The equipment storing PHI and BI should be subject to: Physical access restrictions: Place the server in a protected, locked area and limit access."
+Operability,The lead washing process will operate within the established physical web service structure.
+Operability,The maintenance of the product will fall within the established corporate maintenance windows.
+Operability,The Merchant Information Database provides detailed information with regard to the merchant.
+Operability,The product is expected to integrate with multiple database management systems.
+Operability,The product is expected to run on Windows CE and Palm operating systems.
+Operability,The product must be able to interface with any HTML browser.
+Operability,The product must be able to interface with various database management systems.
+Operability,The product must make use of web or application server technology.
+Operability,The product must support Internet Explorer 5.5 and above.
+Operability,The product must support Mozilla Firefox 1.0 and above.
+Operability,The product must work with most database management systems (DBMS) on the market  whether the DBMS is colocated with the product on the same machine or is located on a different machine on the computer network.
+Operability,The product shall be able to be installed in any operating environment within 2 days.
+Operability,The product shall be able to be installed in the specified environment within 1 working day.
+Operability,The product shall be available for distribution as a packaged CD.
+Operability,The product shall be available for distribution via the Internet as a binary or ZIP file.
+Operability,The product shall be platform independent.
+Operability,The product shall be supported using the corporate support center.
+Operability,The product shall be used in office environments.
+Operability,The product shall communicate successfully with the database management system on 100% of all transactions.
+Operability,The product shall display HTML properly in 80% of all HTML browsers tested (minimum is to test 8 browsers).
+Operability,The product shall enable access to any type of development environment and platform.
+Operability,The product shall exchange messages between CSR and EAM on a real time basis without any direct interfaces between two systems.
+Operability,The product shall interface CSR and Datastream.
+Operability,The product shall interface with the Choice Parts System.
+Operability,The product shall interface with the ChoiceParts system once per day at approximately 1:00 AM.
+Operability,The product shall operate with every platform.
+Operability,The product shall run on the existing hardware for all environments.
+Operability,The product shall transmit data between the user and the product without problems.
+Operability,The product will function alongside server software on any operating system where the Java runtime can be installed.
+Operability,The product will operate with Oracle  SQL Server  DB2  MySQL  HSQL  and MS Access.
+Operability,The product will require collaboration with a database management system (DBMS).
+Operability,The proposed EHR System is able to manage the resource roles necessary to support the environment similar to LAC DHS.
+Operability,"The Proposer shall provide and manage all required infrastructure and network equipment within the data center, such as servers, routers, switches, load balancers and consoles."
+Operability,The RFS system should be able to easily interface with the BDW environment  in order to load the data.
+Operability,The same hardware supporting the current website will be used to support the new system.
+Operability,The Statement Database provides the transaction details to the Disputes System.
+Operability,The system shall able to operate within a business office environment typical of the Nursing Department at DePaul University.
+Operability,The system shall accommodate separate instances of databases.
+Operability,The system shall be used within the specifications defined by the computers used by the Program Administrators or Nursing Staff Members.
+Operability,The system shall interface with CampusConnect's central server
+Operability,The system shall interface with the faculty central server.
+Operability,The system shall interface with the student master server.
+Operability,"The system shall lock database records based on organization parameters (e.g., at row level, field level, or at the application level)."
+Operability,The system shall operate within the Windows XP Professional operating system.
+Operability,"The system shall provide data export functionality that creates common export file format (e.g. comma delimited, tab delimited, space delimited, quotation delimited, etc.)."
+Operability,The system shall provide data import functionality to receive standard format data from external parties.
+Operability,The system shall provide the ability for on-line access by any site connected to the organization WAN.
+Operability,The system shall provide the ability for remote access by authorized individuals (i.e. web based VPN access).
+Operability,"The system shall provide the ability to maintain multiple operating environments for development, test, training and production."
+Operability,The System shall utilize currently owned computer equipment.
+Operability,The WCS shall be accessed by users through the Internet on an IBM computer running a Windows 2000 or above operating system.
+Operability,The WCS system must run queries to the WCS databases once again (on a specified day) to update the available data available to CCR users.
+Operability,The WCS system shall be run in a Windows environment.
+Operability,The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.
+Operability,This can be done in the MySQL configuration (myDOTcnf) file.
+Operability,This provides the feed of recycled parts data.
+Operability,This will allow the Disputes application to request adjustments to cardmember and merchant's accounts.
+Operability,This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process.
+Operability,Velkat staff will be available for phone support between 7am-7pm  M-F to provide technical support to the Izogn administrators.
+Operability,We must be able to interface with any HTML browser.
+Operability,"We must be able to interface with the following browsers: IE 5x, IE 6x, Netscape 6, 7, 8, and Firefox 1."
+Operability,Website must be fully operational with MSN TV2.
+Operability,"You can check the setting in an existing MySQL instance by executing ""SHOW VARIABLES""; in the MySQL Command Line Client and checking the value of SQL_MODE."
+Maintainability,The customer shall be able to easily integrate new building maps with the product throughout the product's lifecycle.  Integration of new maps with the product shall be possible with little to no support from product support staff.
+Maintainability,The product shall be expected to operate within the maximum maintenance budget for a minimum of 2 years.
+Maintainability,Promotional updates to the website should take a day to update.
+Maintainability,Washing parameters will be updated during scheduled maintenance hours.
+Maintainability,"The Proposer shall test application enhancements, fixes, and upgrades and assure the integrity of the resulting data."
+Maintainability,"(1) Accept and promptly process any standard transaction that contains codes that are valid, as provided in subpart J of this part."
+Maintainability,"(1) International Classification of Diseases, 9th Edition, Clinical Modification, (ICD–9–CM), Volumes 1 and 2 (including The Official ICD–9–CM Guidelines for Coding and Reporting), as maintained and distributed by HHS, for the following conditions:"
+Maintainability,(1) It enters into a memorandum of understanding with the business associate that contains terms that accomplish the objectives of paragraph (a)(2)(i) of this section; or
+Maintainability,"(1) The ASC X12N 837—Health Care Claim: Dental, Version 4010, May 2000, Washington Publishing Company, 004010X097 and Addenda to Health Care Claim: Dental, Version 4010, October 2002, Washington Publishing Company, 004010X097A1, as referenced in section 162.1102 and section 162.1802."
+Maintainability,"(1) The Telecommunication Standard Implementation Guide Version 5, Release 1 (Version 5.1), September 1999, National Council for Prescription Drug Programs, as referenced in section 162.1102, section 162.1202, section 162.1302, section 162.1602, and section 162.1802."
+Maintainability,"(2) A health plan may not delay or reject a transaction, or attempt to adversely affect the other entity or the transaction, because the transaction is a standard transaction."
+Maintainability,"(2) International Classification of Diseases, 9th Edition, Clinical Modification, Volume 3 Procedures (including The Official ICD–9–CM Guidelines for Coding and Reporting), as maintained and distributed by HHS, for the following procedures or other actions taken for diseases, injuries, and impairments on hospital inpatients reported by hospitals:"
+Maintainability,"(2) National Drug Codes (NDC), as maintained and distributed by HHS, for reporting the following by retail pharmacies:"
+Maintainability,(2) Other law (including regulations adopted by the covered entity or its business associate) contains requirements applicable to the business associate that accomplish the objectives of paragraph (a)(2)(i) of this section.
+Maintainability,"(2) The ASC X12N 837—Health Care Claim: Professional, Volumes 1 and 2, Version 4010, May 2000, Washington Publishing Company, 004010X098 and Addenda to Health Care Claim: Professional, Volumes 1 and 2, Version 4010, October 2002, Washington Publishing Company, 004010X098A1, as referenced in section 162.1102 and section 162.1802."
+Maintainability,"(2) The Batch Standard Batch Implementation Guide, Version 1, Release 1 (Version 1.1), January 2000, supporting Telecommunication Standard Implementation Guide, Version 5, Release 1 (Version 5.1) for the NCPDP Data Record in the Detail Data Record, National Council for Prescription Drug Programs, as referenced in section 162.1102, section 162.1202, section 162.1302, and section 162.1802."
+Maintainability,"(3) A health plan may not reject a standard transaction on the basis that it contains data elements not needed or used by the health plan (for example, coordination of benefits information)."
+Maintainability,"(3) National Drug Codes (NDC), as maintained and distributed by HHS, in collaboration with drug manufacturers, for the following:"
+Maintainability,"(3) The ASC X12N 837—Health Care Claim: Institutional, Volumes 1 and 2, Version 4010, May 2000, Washington Publishing Company, 004010X096 and Addenda to Health Care Claim: Institutional, Volumes 1 and 2, Version 4010, October 2002, Washington Publishing Company, 004010X096A1 as referenced in section 162.1102 and section 162.1802."
+Maintainability,"(3) The Healthcare Common Procedure Coding System (HCPCS), as maintained and distributed by HHS, for all other substances, equipment, supplies, or other items used in health care services, with the exception of drugs and biologics."
+Maintainability,"(3) The National Council for Prescription Drug Programs (NCPDP) equivalent NCPDP Batch Standard Batch Implementation Guide, Version 1, Release 0, February 1, 1996, as referenced in section 162.1102, section 162.1202, section 162.1602, and section 162.1802."
+Maintainability,(4) A health plan may not offer an incentive for a health care provider to conduct a transaction covered by this part as a transaction described under the exception provided for in section 162.923(b).
+Maintainability,"(4) Code on Dental Procedures and Nomenclature, as maintained and distributed by the American Dental Association, for dental services."
+Maintainability,"(4) The ASC X12N 835—Health Care Claim Payment or Advice, Version 4010, May 2000, Washington Publishing Company, 004010X091, and Addenda to Health Care Claim Payment or Advice, Version 4010, October 2002, Washington Publishing Company, 004010X091A1 as referenced in section 162.1602."
+Maintainability,"(5) A health plan that operates as a health care clearinghouse, or requires an entity to use a health care clearinghouse to receive, process, or transmit a standard transaction may not charge fees or costs in excess of the fees or costs for normal telecommunications that the entity incurs when it directly transmits, or receives, a standard transaction to, or from, a health plan."
+Maintainability,"(5) ASC X12N 834—Benefit Enrollment and Maintenance, Version 4010, May 2000, Washington Publishing Company, 004010X095 and Addenda to Benefit Enrollment and Maintenance, Version 4010, October 2002, Washington Publishing Company, 004010X095A1, as referenced in section 162.1502."
+Maintainability,"(5) The combination of Health Care Financing Administration Common Procedure Coding System (HCPCS), as maintained and distributed by HHS, and Current Procedural Terminology, Fourth Edition (CPT–4), as maintained and distributed by the American Medical Association, for physician services and other health care services."
+Maintainability,"(6) The ASC X12N 820—Payroll Deducted and Other Group Premium Payment for Insurance Products, Version 4010, May 2000, Washington Publishing Company, 004010X061, and Addenda to Payroll Deducted and Other Group Premium Payment for Insurance Products, Version 4010, October 2002, Washington Publishing Company, 004010X061A1, as referenced in section 162.1702."
+Maintainability,"(7) The ASC X12N 278—Health Care Services Review—Request for Review and Response, Version 4010, May 2000, Washington Publishing Company, 004010X094 and Addenda to Health Care Services Review—Request for Review and Response, Version 4010, October 2002, Washington Publishing Company, 004010X094A1, as referenced in section 162.1302."
+Maintainability,"(8) The ASC X12N–276 or 277 Health Care Claim Status Request and Response, Version 4010, May 2000, Washington Publishing Company, 004010X093 and Addenda to Health Care Claim Status Request and Response, Version 4010, October 2002, Washington Publishing Company, 004010X093A1, as referenced in section 162.1402."
+Maintainability,"(9) The ASC X12N 270 or 271—Health Care Eligibility Benefit Inquiry and Response, Version 4010, May 2000, Washington Publishing Company, 004010X092 and Addenda to Health Care Eligibility Benefit Inquiry and Response, Version 4010, October 2002, Washington Publishing Company, 004010X092A1, as referenced in section 162.1202."
+Maintainability,"(a) For the period from October 16, 2002 through October 15, 2003: ASC X12N 834—Benefit Enrollment and Maintenance, Version 4010, May 2000, Washington Publishing Company, 004010X095."
+Maintainability,"(a) For the period from October 16, 2002 through October 15, 2003: The ASC X12N 820—Payroll Deducted and Other Group Premium Payment for Insurance Products, Version 4010, May 2000, Washington Publishing Company, 04010X061."
+Maintainability,"(a) For the period from October 16, 2002 through October 15, 2003: The ASC X12N–276 or 277 Health Care Claim Status Request and Response, Version 4010, May 2000, Washington Publishing Company, 004010X093."
+Maintainability,"(a) For the period from October 16, 2002, through October 15, 2003: The ASC X12N 278—Health Care Services Review—Request for Review and Response, Version 4010, May 2000, Washington Publishing Company, 004010X094."
+Maintainability,"(a) Receive a standard transaction on behalf of the covered entity and translate it into a nonstandard transaction (for example, nonstandard format possibly and possibly nonstandard data content) for transmission to the covered entity."
+Maintainability,"(b) For the period on and after October 16, 2003: ASC X12N 834—Benefit Enrollment and Maintenance, Version 4010, May 2000, Washington Publishing Company, 004010X095 and Addenda to Benefit Enrollment and Maintenance, Version 4010, October 2002, Washington Publishing Company, 004010X095A1."
+Maintainability,"(b) For the period on and after October 16, 2003: The ASC X12N–276 or 277 Health Care Claim Status Request and Response, Version 4010, May 2000, Washington Publishing Company, 004010X093 and Addenda to Health Care Claim Status Request and Response, Version 4010, October 2002, Washington Publishing Company, 004010X093A1."
+Maintainability,"(b) Receive a nonstandard transaction (for example, nonstandard format possibly and possibly nonstandard data content) from the covered entity and translate it into a standard transaction for transmission on behalf of the covered entity."
+Maintainability,100% of customers will be able to receive automatic software updates transmitted to the installed product.
+Maintainability,80% of end users are able to integrate new database management systems with the product without changing the product's software code.
+Maintainability,90% of maintenance software developers are able to integrate new functionality into the product with 2 working days.
+Maintainability,A health care provider electing to use direct data entry offered by a health plan to conduct a transaction for which a standard has been adopted under this part must use the applicable data content and data condition requirements of the standard when conducting the transaction.
+Maintainability,All changes  updates  and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides.
+Maintainability,All new code shall be documented using the Javadoc documentation system.
+Maintainability,All non-GUI classes must have at least 80% unit testing or JUnit coverage of tests that pass.
+Maintainability,"and Addenda to Health Care Claim: Dental, Version 4010, October 2002, Washington Publishing Company, 004010X097A1."
+Maintainability,Assign a unique name possibly and possibly number for identifying and tracking user identity.
+Maintainability,"CPT: The CPT code set accurately describes medical, surgical, and diagnostic services and is designed to communicate uniform information about medical services and procedures among physicians, coders, patients, accreditation organizations, and payers for administrative, financial, and analytical purposes."
+Maintainability,Direct treatment relationship means a treatment relationship between an individual and a health care provider that is not an indirect treatment relationship.
+Maintainability,Every change must be reflected in WCS system documentation
+Maintainability,For each emerging target market  it shall take no more than 5 days to configure the product for that market's language.
+Maintainability,"If a health plan receives a standard transaction and coordinates benefits with another health plan (or another payer), it must store the coordination of benefits data it needs to forward the standard transaction to the other health plan (or other payer)."
+Maintainability,LOINC c or o Medical Informatics.
+Maintainability,LOINC: Logical Observation Identifiers Names and Codes (LOINC) is a database and universal standard for identifying medical laboratory observations.
+Maintainability,National Drug Code Directory.
+Maintainability,Orange book codes
+Maintainability,Promotional updates to the website should take a day to update.
+Maintainability,Revenue and expense formulae will be updated within one week of their receipt  after which 2 weeks will be allotted to testing of the budget calculations  to be conducted jointly by the project development team and PCG Finance.
+Maintainability,The appointments are listed in the format 'MM/DD/YYYY - AppointmentType'.
+Maintainability,"The ASC X12N 270 or 271—Health Care Eligibility Benefit Inquiry and Response, Version 4010, May 2000, Washington Publishing Company, 004010X092 and Addenda to Health Care Eligibility Benefit Inquiry and Response, Version 4010, October 2002, Washington Publishing Company, 004010X092A1."
+Maintainability,"The ASC X12N 270 or 271—Health Care Eligibility Benefit Inquiry and Response, Version 4010, May 2000, Washington Publishing Company,004010X092."
+Maintainability,"The ASC X12N 278—Health Care Services Review—Request for Review and Response, Version 4010, May 2000, Washington Publishing Company, 004010X094 and Addenda to Health Care Services Review—Request for Review and Response, Version 4010, October 2002, Washington Publishing Company, 004010X094A1."
+Maintainability,"The ASC X12N 820—Payroll Deducted and Other Group Premium Payment for Insurance Products, Version 4010, May 2000, Washington Publishing Company, 004010X061, and Addenda to Payroll Deducted and Other Group Premium Payment for Insurance Products, Version 4010, October 2002, Washington Publishing Company, 004010X061A1."
+Maintainability,"The ASC X12N 835—Health Care Claim Payment or Advice, Version 4010, May 2000, Washington Publishing Company, 004010X091, and Addenda to Health Care Claim Payment or Advice, Version 4010, October 2002, Washington Publishing Company, 004010X091A1."
+Maintainability,"The ASC X12N 835—Health Care Claim Payment or Advice, Version 4010, May 2000, Washington Publishing Company, 004010X091."
+Maintainability,"The ASC X12N 837—Health Care Claim: Dental, Version 4010, May 2000, Washington Publishing Company, 004010X097 and Addenda to Health Care Claim: Dental, Version 4010, October 2002, Washington Publishing Company, 004010X097A1."
+Maintainability,"The ASC X12N 837—Health Care Claim: Dental, Version 4010, May 2000, Washington Publishing Company, 004010X097."
+Maintainability,"The ASC X12N 837—Health Care Claim: Institutional, Volumes 1 and 2, Version 4010, May 2000, Washington Publishing Company, 004010X096 and Addenda to Health Care Claim: Institutional, Volumes 1 and 2, Version 4010, October 2002, Washington Publishing Company, 004010X096A1."
+Maintainability,"The ASC X12N 837—Health Care Claim: Professional, Volumes 1 and 2, Version 4010, May 2000, Washington Publishing Company, 004010X098 and Addenda to Health Care Claim: Professional, Volumes 1 and 2, Version 4010, October 2002, Washington Publishing Company, 004010X098A1."
+Maintainability,"The ASC X12N 837—Health Care Claim: Professional, Volumes 1 and 2, Version 4010, May 2000, Washington Publishing Company, 004010X098."
+Maintainability,"The ASC X12N 837—Health Care Claims: Professional, Volumes 1 and 2, Version 4010, may 2000, Washington Publishing Company, 004010X098 and Addenda to Health Care Claims: Professional, Volumes 1 and 2, Version 4010, October 2002, Washington Publishing Company, 004010x098A1."
+Maintainability,The database system shall provide Structured Query Language (SQL) capabilities for database queries.
+Maintainability,The database system shall provide the following features:
+Maintainability,"The Health Care Financing Administration Common Procedure Coding System (HCPCS), as maintained and distributed by HHS, for all other substances, equipment, supplies, or other items used in health care services."
+Maintainability,The implementation must use the Strategy pattern for epidemic detection and cause-of-death trends and the Singleton pattern for database connections.
+Maintainability,The implementation shall adhere to the Java Coding Standards.
+Maintainability,The implementation shall run on the Windows platform in the Eclipse 3.3 environment.
+Maintainability,"The National Council for Prescription Drug Programs (NCPDP) Telecommunication Standard Implementation Guide, Version 5, Release 1, September 1999, and equivalent NCPDP Batch Standard Batch Implementation Guide, Version 1, Release 0 February 1, 1996."
+Maintainability,"The National Council for Prescription Drug Programs (NCPDP) Telecommunication Standards Implementaiton Guide, Version 5, Release 1, September 1999, and equivalent NCPDP Batch Standards Batch Implementation Guide, Version 1, Release 1, (Version 1.1), January 2000, supporting Telecomunication Version 5.1 for the NCPDP Data Record in the Detail Data Record."
+Maintainability,"The National Council for Prescription Drug Programs Telecommunication Standard Implementation Guide, Version 5, Release 1 (Version 5.1), September 1999, and equivalent NCPDP Batch Standard Batch Implementation Guide, Version 1, Release 1 (Version 1.1), January 2000 supporting Telecommunications Standard Implementation Guide, Version 5, Release 1 (Version 5.1) for the NCPDP Data Record in the Detail Data Record."
+Maintainability,"The National Council for Prescription Drug Programs Telecommunication Standard Implementation Guide, Version 5, Release 1, September 1999, and equivalent NCPDP Batch Standard Batch Implementation Guide, Version 1, Release 0, February 1, 1996."
+Maintainability,"The National Council for Prescription Drug Programs Telecommunications Standards Implementaiton Guide, Version 5, Release 1, September 1999, and equivalent NCPDP Batch Standards Batch Implementation Guide, Version 1, Release 0, February 1, 1996."
+Maintainability,"The NCPDP Telecommunication Standard Implementation Guide, Version 5 Release 1, September 1999, and equivalent NCPDP Batch Standard Batch Implementation Guide, Version 1 Release 0, February 1, 1996."
+Maintainability,"The NCPDP Telecommunication Standard Implementation Guide, Version 5, Release 1 (Version 5.1), September 1999, and equivalent NCPDP Batch Standard Batch Implementation Guide, Version 1, Release 1 (Version 1.1), January 2000, supporting Telecommunications Standard Implementation Guide, Version 5, Release 1 (Version 5.1) for the NCPDP Data Record in the Detail Data Record."
+Maintainability,The PHP code will comply with PEAR standards.
+Maintainability,The product must be designed using Design Patterns and coding best practices.
+Maintainability,The product must be developed with the J2SE or J2EE programming language libraries
+Maintainability,The product must be highly configurable for use with various database management systems for the end users.
+Maintainability,The product must run using Internet Explorer and Netscape Navigator.
+Maintainability,The product shall accommodate any new technology without any change in its architecture.
+Maintainability,The product shall adhere to the corporate Architecture guidelines
+Maintainability,The product shall be able to continue to operate with no interruption in service due to new resource additions.
+Maintainability,The product shall be internet browser independent.
+Maintainability,The product shall be translated into foreign languages other than the target market countries' languages in future releases.
+Maintainability,The product shall comply with City of Chicago Application Development Guide Framework.
+Maintainability,The product shall continue to operate during upgrade  change or new resource addition.
+Maintainability,The product shall enable privacy by encryption WS-Security and Integrity Checking.
+Maintainability,The product shall have the ability to receive automatic software updates as new threats emerge.
+Maintainability,The product shall provide Dynamic Change Support and Transparent resource addition.
+Maintainability,"The screens shall be highly re-configurable, providing ability to reposition and rename field labels, remove or turn-off unused fields, maintain data, and allow addition of custom-defined fields."
+Maintainability,The system has a process of linking local organism codes to the SNOMED and LOINC codes.
+Maintainability,"The system has capability of importing and export patient demographic data via HL7 interface from an existing Practice Management System, Patient Registration System, or any such system used for patient registration possibly and possibly scheduling."
+Maintainability,The system has the capability to be DICOM compliant for images.
+Maintainability,The system has the capability to support BIRADS categories 0-6
+Maintainability,The system has the capability to support Breast Imaging Reporting and Data System Atlas (BIRADS).
+Maintainability,The system has the capability to utilize pharmacy industry standardized databases that include:
+Maintainability,"The system shall allow the database information exchange using current commonly accepted industry formats (e.g. HL7, XML)."
+Maintainability,The system shall be based upon proven state-of-the-art technologies.
+Maintainability,The system shall be implemented as a Java Server Page web application.
+Maintainability,The system shall capture and maintain demographic information as discrete data elements as part of the patient record.
+Maintainability,The system shall have the ability to format for export recorded time stamps using UTC based on ISO 8601.
+Maintainability,The system shall provide an automated test script to validate the data after modifications or upgrades
+Maintainability,"The system shall provide the ability to capture and maintain, as discrete data, a diagnosis or problem code or description associated with an order of any type (including prescriptions and medications ordered for administration)."
+Maintainability,"The system shall provide the ability to capture and maintain, as discrete data, the reason for variation from rule-based clinical messages (for example alerts and reminders)."
+Maintainability,The system shall provide the ability to capture patient history in a standard coded form.
+Maintainability,"The system shall provide the ability to capture patient vital signs, including blood pressure, heart rate, respiratory rate, height, and weight, as discrete data."
+Maintainability,"The system shall provide the ability to capture, in a discrete field, an allergy or adverse reaction to a specific immunization."
+Maintainability,The system shall provide the ability to load information from standard file(s).
+Maintainability,The system shall provide the ability to perform real-time updates.
+Maintainability,The system shall store medication information in discrete data fields.
+Maintainability,"The system shall support an online data dictionary and table relationships that describe and maintain information on each data element including: data element name and type, description of the data element, and the format of each data element."
+Maintainability,The system shall support common database connectivity protocols such as ODBC.
+Maintainability,The system shall use an open relational database management system (RDBMS) to store all organization data.
+Maintainability,"The system shall utilize naming conventions and standards for data elements, entities and tables, programs, report names, etc."
+Maintainability,"The system shall utilize utilities for database performance monitoring and tuning that comply with industry standards, including but not limited to tools for table & file maintenance."
+Maintainability,The tool will support the ability to customize the script and provide a final report to document the validation.
+Maintainability,The washing process must use a non binding  neutral data format  such as xml  when receiving and processing lead data.
+Maintainability,The website should use Flash to provide animation on the home page.
+Maintainability,The website will comply with W3C standards.
+Maintainability,These are the standards codes used within iTrust:.
+Maintainability,"This includes browser-based, server-side architectures, configurable, and a range of industry-standard database, operating system, and programming platforms"
+Maintainability,"To control open connections to the database, all database access should be done through an object that uses the Singleton pattern."
+Maintainability,Use the applicable medical data code sets described in section 162.1002 as specified in the implementation specification adopted under this part that are valid at the time the health care is furnished.
+Maintainability,Use the nonmedical data code sets as described in the implementation specifications adopted under this part that are valid at the time the transaction is initiated.
+Maintainability,"Volumes 1 and 2, Version 4010, May 2000, Washington Publishing Company, 004010X096."
+Maintainability,The system shall provide the ability to capture other clinical data elements as discrete data.
